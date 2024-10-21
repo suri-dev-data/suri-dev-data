@@ -1,5 +1,5 @@
 
-<h3 align="center">Coding and Analysing data at Rio de Janeiro 🌴</h3>
+<h3 align="center">🌴🦜 Coding and Analysing data at Rio de Janeiro 🌴</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
