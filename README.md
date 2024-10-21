@@ -22,7 +22,7 @@
 
 ### ⚡ GitHub Stats
 
-![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinicius&show_icons=true&theme=radical&title_color=2ecc71&icon_color=ffffff&bg_color=00000000)
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=suri-dev-data&show_icons=true&theme=radical&title_color=2ecc71&icon_color=ffffff&bg_color=00000000)
 
 ---
 
