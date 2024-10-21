@@ -32,8 +32,8 @@
 
 ### 🌱 What I'm Learning
 
+- Computer Vision
 - Machine Learning & AI
-- DevOps & Cloud (AWS, Docker, Kubernetes)
 - Blockchain Development
 
 ---
