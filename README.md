@@ -1,13 +1,47 @@
 
-<h3 style="color: green;" align="center">🌴🦜 Coding and Analysing data at Rio de Janeiro 🌴</h3>
+<h3 style="color: green;" align="center">🌴🦜 Coding and Analysing data from Rio de Janeiro, Brazil since 2022 🌴</h3>
+<!-- Green-Themed Stylish GitHub Profile README -->
 
-<h3  style="color: green" align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/vinicius-suriano" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinicius-suriano" height="30" width="40" /></a>
-</p>
+![Header Image](https://via.placeholder.com/1000x300/2ecc71/ffffff?text=Welcome+to+My+GitHub+Profile)
 
-<h3 style="color: green" align="left" > Languages and Tools: </h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+# 🌴🦜 Hello! I'm Vinicius Suriano and i'm Coding and Analysing data at Rio de Janeiro since 2022🌴
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=suri-dev-data&show_icons=true&locale=en&layout=compact" alt="suri-dev-data" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=suri-dev-data&show_icons=true&locale=en" alt="suri-dev-data" /></p>
+### 💻 Software Engineer | 🚀 Open Source Enthusiast | 🌱 Lifelong Learner
+
+Welcome to my GitHub profile! I'm passionate about building innovative solutions, contributing to open-source projects, and constantly improving my skills.
+
+---
+
+### 🛠️ Technologies & Tools
+![JavaScript](https://img.shields.io/badge/-JavaScript-2ecc71?style=flat-square&logo=javascript&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-2ecc71?style=flat-square&logo=python&logoColor=ffffff)
+![Node.js](https://img.shields.io/badge/-Node.js-2ecc71?style=flat-square&logo=node.js&logoColor=ffffff)
+![React](https://img.shields.io/badge/-React-2ecc71?style=flat-square&logo=react&logoColor=ffffff)
+![Git](https://img.shields.io/badge/-Git-2ecc71?style=flat-square&logo=git&logoColor=ffffff)
+![VS Code](https://img.shields.io/badge/-VS_Code-2ecc71?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
+
+---
+
+### ⚡ GitHub Stats
+
+![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&title_color=2ecc71&icon_color=ffffff&bg_color=00000000)
+
+---
+
+### 🌱 What I'm Learning
+
+- Machine Learning & AI
+- DevOps & Cloud (AWS, Docker, Kubernetes)
+- Blockchain Development
+
+---
+
+### 📫 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2ecc71?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/yourprofile)
+[![Twitter](https://img.shields.io/badge/-Twitter-2ecc71?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/yourusername)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-2ecc71?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://yourwebsite.com)
+
+---
+
+![Footer Image](https://via.placeholder.com/1000x100/2ecc71/ffffff?text=Thank+You+for+Visiting!)
