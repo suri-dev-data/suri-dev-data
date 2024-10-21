@@ -6,9 +6,7 @@
 
 # 🌴🦜 Hello! I'm Vinicius Suriano and i'm Coding and Analysing data at Rio de Janeiro since 2022🌴
 
-### 💻 Software Engineer | 🚀 Open Source Enthusiast | 🌱 Lifelong Learner
-
-Welcome to my GitHub profile! I'm passionate about building innovative solutions, contributing to open-source projects, and constantly improving my skills.
+### 🚀 Data-Scientist | 💻 Software Engineer | 🌱 Lifelong Learner
 
 ---
 
