@@ -38,10 +38,7 @@ Welcome to my GitHub profile! I'm passionate about building innovative solutions
 
 ### 📫 Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2ecc71?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/-Twitter-2ecc71?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/yourusername)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-2ecc71?style=flat-square&logo=google-chrome&logoColor=ffffff)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2ecc71?style=flat-square&logo=linkedin&logoColor=ffffff)](https://linkedin.com/in/vinicius-suriano)
 
----
 
-![Footer Image](https://via.placeholder.com/1000x100/2ecc71/ffffff?text=Thank+You+for+Visiting!)
+
