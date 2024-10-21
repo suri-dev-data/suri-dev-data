@@ -1,8 +1,7 @@
 
-<h3 style="color: green;" align="center">🌴🦜 Coding and Analysing data from Rio de Janeiro, Brazil since 2022 🌴</h3>
 <!-- Green-Themed Stylish GitHub Profile README -->
 
-# 🌴🦜 Hello! I'm Vinicius Suriano and i'm Coding and Analysing data at Rio de Janeiro since 2022🌴
+#  Hello! I'm Vinicius Suriano and 🌴🦜 i'm Coding and Analysing data at Rio de Janeiro since 2022🌴
 
 ### 🚀 Data-Scientist | 💻 Software Engineer | 🌱 Lifelong Learner
 
