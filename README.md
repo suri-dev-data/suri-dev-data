@@ -27,6 +27,9 @@
 
 ### 🌱 What I'm Learning
 
+- Pythonic
+- Automation
+- Software Dev
 - Computer Vision
 - Machine Learning & AI
 - Blockchain Development
