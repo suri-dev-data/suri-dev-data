@@ -2,7 +2,7 @@
 <!-- Green-Themed Stylish GitHub Profile README -->
 
 #  Hello, I'm Vinicius Suriano
-### 🌴🦜 i'm Coding and Analysing data at Rio de Janeiro since 2022🌴
+### 🌴🦜 i'm Coding and Analysing data at Rio de Janeiro since 2021🌴
 
 ### 🚀 Data-Scientist | 💻 Software Engineer | 🌱 Lifelong Learner
 
