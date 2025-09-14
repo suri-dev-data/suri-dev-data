@@ -28,6 +28,7 @@
 ### 🌱 What I'm Learning
 
 - Pythonic
+- C# .net
 - Automation
 - Software Dev
 - Computer Vision
