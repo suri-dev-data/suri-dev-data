@@ -9,7 +9,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
-
+![C#](https://img.shields.io/badge/-C#-2ecc71?style=flat-square&logo=python&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-2ecc71?style=flat-square&logo=python&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2ecc71?style=flat-square&logo=mongodb&logoColor=ffffff)
 ![MySQL](https://img.shields.io/badge/-MySQL-2ecc71?style=flat-square&logo=mysql&logoColor=ffffff)
