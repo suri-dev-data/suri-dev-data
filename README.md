@@ -26,9 +26,9 @@
 
 - Pythonic
 - C# .net
-- Automation
-- Software Dev
-- Computer Vision
+- Docker
+- Kubernetes
+- React
 
 ---
 
