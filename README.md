@@ -9,6 +9,8 @@
 ---
 
 ### 🛠️ Technologies & Tools
+![Kubernetes](https://img.shields.io/badge/-CSharp-2ecc71?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-CSharp-2ecc71?style=flat-square&logo=docker&logoColor=ffffff)
 ![CSharp](https://img.shields.io/badge/-CSharp-2ecc71?style=flat-square&logo=.net&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-2ecc71?style=flat-square&logo=python&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2ecc71?style=flat-square&logo=mongodb&logoColor=ffffff)
