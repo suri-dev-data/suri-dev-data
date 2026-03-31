@@ -9,8 +9,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-2ecc71?style=flat-square&logo=kubernetes&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-2ecc71?style=flat-square&logo=docker&logoColor=ffffff)
+
 ![CSharp](https://img.shields.io/badge/-CSharp-2ecc71?style=flat-square&logo=.net&logoColor=ffffff)
 ![Python](https://img.shields.io/badge/-Python-2ecc71?style=flat-square&logo=python&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-2ecc71?style=flat-square&logo=mongodb&logoColor=ffffff)
@@ -19,16 +18,8 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-2ecc71?style=flat-square&logo=node.js&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-React-2ecc71?style=flat-square&logo=react&logoColor=ffffff)
 ![Git](https://img.shields.io/badge/-Git-2ecc71?style=flat-square&logo=git&logoColor=ffffff)
-
----
-
-### 🌱 What I'm Learning
-
-- Pythonic
-- C# .net
-- Docker
-- Kubernetes
-- React
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-2ecc71?style=flat-square&logo=kubernetes&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2ecc71?style=flat-square&logo=docker&logoColor=ffffff)
 
 ---
 
