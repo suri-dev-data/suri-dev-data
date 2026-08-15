@@ -6,6 +6,8 @@ Desenvolvedor apaixonado por transformar dados em soluções práticas. Com expe
 
 🌴 **Deployed em Rio de Janeiro | Desenvolvendo desde 2021**
 
+ https://suri-dev-data.github.io/suri-dev-data
+ 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
