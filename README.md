@@ -49,12 +49,6 @@ Desenvolvedor apaixonado por transformar dados em soluções práticas. Com expe
 
 ---
 
-## 📊 Estatísticas
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=suri-dev-data&theme=algolia&hide_border=true" alt="Estatísticas do GitHub"/>
-
----
-
 ## 🎯 Meus Interesses
 
 - 📚 Desenvolvimento Desktop .Net
