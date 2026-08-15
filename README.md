@@ -51,7 +51,7 @@ Desenvolvedor apaixonado por transformar dados em soluções práticas. Com expe
 
 ## 📊 Estatísticas
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=seu_usuario&theme=algolia&hide_border=true" alt="Estatísticas do GitHub"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=suri-dev-data&theme=algolia&hide_border=true" alt="Estatísticas do GitHub"/>
 
 ---
 
